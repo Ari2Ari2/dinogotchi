@@ -8,9 +8,12 @@ _*Note: These ideas are not in order of importance or any kind of order other th
 
 = Ideas =
 
-One the initial clone has been made then I would like to expand and have some sort of growth pattern for the dinogotchi to follow:
+----
+Once the initial clone has been made then I would like to expand and have some sort of growth pattern for the dinogotchi to follow:
 
 egg > baby > adolescence > adulthood > eventual death.
 
 I would like the growth of the dinogotchi to be determined by the way that the user has interacted with it.  
 ----
+
+I would like to integrate some sort of personality for each individual dinogotchi, again this will be determined by the way the user interacts with the pet.  
