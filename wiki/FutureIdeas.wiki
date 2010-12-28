@@ -4,7 +4,6 @@ _Ideas for future versions of Dinogotchi.
 
 Although for now Dinogotchi is going to be a simple clone, eventually I want to create a feature rich application including networked multiplayer support and an environment to roam around in.
 
+{{{ Note: These ideas are not in order of importance or any kind of order other than the order I think of them.  They will be put in order later. }}}
 
 = Ideas =
-
-These ideas are not in order of importance or any kind of order other than the order I think of them.  
