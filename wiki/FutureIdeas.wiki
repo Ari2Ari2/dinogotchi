@@ -13,4 +13,4 @@ One the initial clone has been made then I would like to expand and have some so
 egg > baby > adolescence > adulthood > eventual death.
 
 I would like the growth of the dinogotchi to be determined by the way that the user has interacted with it.  
-_
+---
