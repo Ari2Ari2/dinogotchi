@@ -7,6 +7,4 @@ Dinogotchi is a play on the name of the original tamagotchi.  Tamagotchi is two 
 
 = Details =
 
-This project is still very much in it's infancy.  No code has been written yet.  Although eventually I want many features for dinogotchi(see future ideas), I want to keep it simple for now so initially I will be aiming to recreate the original tamagotchi game play.  In fact dinogotchis gameplay will be simpler than the tamagotchis at the beginning.  
-
-Dinogotchis states will be limited. 
+This project is still very much in it's infancy.  Eventually I want many features for dinogotchi(see [FutureIdeas future ideas]), I want to keep it simple for now so initially I will be aiming to recreate the original tamagotchi game play.  In fact dinogotchis gameplay will be simpler than the tamagotchis at the beginning.  
