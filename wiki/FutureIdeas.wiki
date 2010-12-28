@@ -25,5 +25,5 @@ Networking support, one users dinogotchi can connection to another users dinogot
 Mating of dinogotchis.  Trait of the parents would be "genetically" transfered into the new baby dinogotchi.
 ----
 
-An interactive, modular environment which determines aspects of your dinogotchis look and personality.
+An interactive, dynamic environments which determines aspects of your dinogotchis look and personality.
 ----
