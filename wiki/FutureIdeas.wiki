@@ -1,3 +1,4 @@
+#sidebar TableOfContents
 _Ideas for future versions of Dinogotchi.
 
 = Introduction =
