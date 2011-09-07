@@ -1,3 +1,4 @@
+#sidebar TableOfContents
 _introduction to dinogotchi_
 
 = Introduction =
