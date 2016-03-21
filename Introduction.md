@@ -1,0 +1,10 @@
+_introduction to dinogotchi_
+
+# Introduction #
+
+Dinogotchi is a play on the name of the original tamagotchi.  Tamagotchi is two Japanese words combined: tamago which means egg and then tomodachi which means friend.  So essentially Dinogotchi means Dinosaur friend.
+
+
+# Details #
+
+This project is still very much in it's infancy.  Eventually I want many features for dinogotchi(see [future ideas](FutureIdeas.md)), I want to keep it simple for now so initially I will be aiming to recreate the original tamagotchi game play.  In fact dinogotchis gameplay will be simpler than the tamagotchis at the beginning.
